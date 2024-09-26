@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Per Se",
+    "url": "https://www.google.com/maps/place/Per+Se/data=!4m7!3m6!1s0x89c258f62fec73a7:0x5e24118dffac8a65!8m2!3d40.7682178!4d-73.9828988!16zL20vMGNxdjh5!19sChIJp3PsL_ZYwokRZYqs_40RJF4?authuser=0&hl=de&rclk=1",
+    "address": "10 Columbus Cir, New York, NY 10019, Vereinigte Staaten",
+    "phone": "+1 212-823-9335",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Delmonico's",
+    "url": "https://www.google.com/maps/place/Delmonico%27s/data=!4m7!3m6!1s0x89c25a169b252fc3:0xa2bf2e9c831365b5!8m2!3d40.7050268!4d-74.0102557!16s%2Fg%2F1q62fbp4q!19sChIJwy8lmxZawokRtWUTg5wuv6I?authuser=0&hl=de&rclk=1",
+    "address": "56 Beaver St, New York, NY 10004, Vereinigte Staaten",
+    "phone": "+1 212-381-1237",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Birdie's",
+    "url": "https://www.google.com/maps/place/Birdie%27s/data=!4m7!3m6!1s0x8644b5080783e9b7:0x3966bdc4f4a3a61a!8m2!3d30.2764082!4d-97.7045648!16s%2Fg%2F11ppqgfvm5!19sChIJt-mDBwi1RIYRGqaj9MS9Zjk?authuser=0&hl=de&rclk=1",
+    "address": "2944 E 12th St Unit A, Austin, TX 78702, Vereinigte Staaten",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Christopher\u2019s at Wrigley Mansion",
+    "url": "https://www.google.com/maps/place/Christopher%E2%80%99s+at+Wrigley+Mansion/data=!4m7!3m6!1s0x872b0d6c742c3efd:0xe5c5982c4eb43731!8m2!3d33.5228514!4d-112.0267977!16s%2Fg%2F1tw_nqhz!19sChIJ_T4sdGwNK4cRMTe0TiyYxeU?authuser=0&hl=de&rclk=1",
+    "address": "2501 E Telawa Trail, Phoenix, AZ 85016, Vereinigte Staaten",
+    "phone": "+1 602-522-2344",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Providence",
+    "url": "https://www.google.com/maps/place/Providence/data=!4m7!3m6!1s0x80c2bed37a6d4069:0x28108f04e0d52aab!8m2!3d34.0836697!4d-118.3300251!16s%2Fm%2F0zc1yky!19sChIJaUBtetO-woARqyrV4ASPECg?authuser=0&hl=de&rclk=1",
+    "address": "5955 Melrose Ave, Los Angeles, CA 90038, Vereinigte Staaten",
+    "phone": "+1 323-460-4170",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Merois | West Hollywood",
+    "url": "https://www.google.com/maps/place/Merois+%7C+West+Hollywood/data=!4m7!3m6!1s0x80c2bf6febbc62eb:0x961417f01f6d8af1!8m2!3d34.0946318!4d-118.3735788!16s%2Fg%2F11r721b7zw!19sChIJ62K862-_woAR8YptH_AXFJY?authuser=0&hl=de&rclk=1",
+    "address": "8430 Sunset Blvd, West Hollywood, CA 90069, Vereinigte Staaten",
+    "phone": "+1 323-918-3410",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Benu",
+    "url": "https://www.google.com/maps/place/Benu/data=!4m7!3m6!1s0x8085807daa163a49:0xeabe8c21da872bd4!8m2!3d37.7855007!4d-122.3990397!16s%2Fm%2F0x2t1w6!19sChIJSToWqn2AhYAR1CuH2iGMvuo?authuser=0&hl=de&rclk=1",
+    "address": "22 Hawthorne St, San Francisco, CA 94105, Vereinigte Staaten",
+    "phone": "+1 415-685-4860",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Nixta Taqueria",
+    "url": "https://www.google.com/maps/place/Nixta+Taqueria/data=!4m7!3m6!1s0x8644b5bfa9a39a85:0x89e30b3a9deaaf51!8m2!3d30.2750091!4d-97.7132754!16s%2Fg%2F11h047jyym!19sChIJhZqjqb-1RIYRUa_qnToL44k?authuser=0&hl=de&rclk=1",
+    "address": "2512 E 12th St, Austin, TX 78702, Vereinigte Staaten",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Black Radish",
+    "url": "https://www.google.com/maps/place/Black+Radish/data=!4m7!3m6!1s0x80d955f0e7a3d1b9:0x5db575966b14fca5!8m2!3d32.7482559!4d-117.1359021!16s%2Fg%2F11p12zc8sv!19sChIJudGj5_BV2YARpfwUa5Z1tV0?authuser=0&hl=de&rclk=1",
+    "address": "2591 University Ave, San Diego, CA 92104, Vereinigte Staaten",
+    "phone": "+1 619-269-1980",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "KIN",
+    "url": "https://www.google.com/maps/place/KIN/data=!4m7!3m6!1s0x54aef8e44d9000df:0x5bb4b0f5f464b3af!8m2!3d43.6163778!4d-116.205451!16s%2Fg%2F11jfdpykkj!19sChIJ3wCQTeT4rlQRr7Nk9PWwtFs?authuser=0&hl=de&rclk=1",
+    "address": "999 W Main St Suite P101, Boise, ID 83702, Vereinigte Staaten",
+    "phone": "+1 208-342-0600",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Anajak Thai Cuisine",
+    "url": "https://www.google.com/maps/place/Anajak+Thai+Cuisine/data=!4m7!3m6!1s0x80c297c5baa1e89f:0x83a04faba786ac13!8m2!3d34.1515121!4d-118.4533788!16s%2Fg%2F1tgtfrvd!19sChIJn-ihusWXwoARE6yGp6tPoIM?authuser=0&hl=de&rclk=1",
+    "address": "14704 Ventura Blvd, Sherman Oaks, CA 91403, Vereinigte Staaten",
+    "phone": "+1 818-501-4201",
+    "hours": "No Hours",
+    "reviews": "4.3",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Camphor",
+    "url": "https://www.google.com/maps/place/Camphor/data=!4m7!3m6!1s0x80c2c76c7e656d35:0xedbfe078ba7b3ac7!8m2!3d34.0466391!4d-118.2342018!16s%2Fg%2F11rm_k34k2!19sChIJNW1lfmzHwoARxzp7unjgv-0?authuser=0&hl=de&rclk=1",
+    "address": "923 E 3rd St #109, Los Angeles, CA 90013, Vereinigte Staaten",
+    "phone": "+1 213-626-8888",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Alinea",
+    "url": "https://www.google.com/maps/place/Alinea/data=!4m7!3m6!1s0x880fd322d33a22bb:0xed1db5da10d6043b!8m2!3d41.913435!4d-87.6480552!16s%2Fm%2F0275b31!19sChIJuyI60yLTD4gROwTWENq1He0?authuser=0&hl=de&rclk=1",
+    "address": "1723 N Halsted St, Chicago, IL 60614, Vereinigte Staaten",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Harbinger",
+    "url": "https://www.google.com/maps/place/Harbinger/data=!4m7!3m6!1s0x87ee992857122f7d:0xf645a8cc6fbfb256!8m2!3d41.5855368!4d-93.6543715!16s%2Fg%2F11g69g62bl!19sChIJfS8SVyiZ7ocRVrK_b8yoRfY?authuser=0&hl=de&rclk=1",
+    "address": "2724 Ingersoll Ave, Des Moines, IA 50312, Vereinigte Staaten",
+    "phone": "+1 515-244-1314",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Glai Baan",
+    "url": "https://www.google.com/maps/place/Glai+Baan/data=!4m7!3m6!1s0x872b0d9bc5d08e19:0x12d26cb99edc2f3e!8m2!3d33.4872925!4d-112.0308517!16s%2Fg%2F11fylvfrks!19sChIJGY7QxZsNK4cRPi_cnrls0hI?authuser=0&hl=de&rclk=1",
+    "address": "2333 E Osborn Rd, Phoenix, AZ 85016, Vereinigte Staaten",
+    "phone": "+1 602-595-5881",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Four Winds Convenience Store",
+    "url": "https://www.google.com/maps/place/Four+Winds+Convenience+Store/data=!4m7!3m6!1s0x87227330ae23c64f:0x5a2d6df6d85983dd!8m2!3d35.1092933!4d-106.6591123!16s%2Fg%2F11b61r27v0!19sChIJT8YjrjBzIocR3YNZ2PZtLVo?authuser=0&hl=de&rclk=1",
+    "address": "2401 12th St NW, Albuquerque, NM 87104, Vereinigte Staaten",
+    "phone": "+1 505-724-3527",
+    "hours": "No Hours",
+    "reviews": "4.0",
+    "websites": "indianpueblo.org"
+  },
+  {
+    "name": "Laguna Burger at Route 66 Casino",
+    "url": "https://www.google.com/maps/place/Laguna+Burger+at+Route+66+Casino/data=!4m7!3m6!1s0x87223f874444f50d:0x5bf8b5b30b748008!8m2!3d35.0280059!4d-106.9527827!16s%2Fg%2F11qbsqt5ph!19sChIJDfVERIc_IocRCIB0C7O1-Fs?authuser=0&hl=de&rclk=1",
+    "address": "14500 Central Ave SW, Rio Puerco, Albuquerque, NM 87121, Vereinigte Staaten",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "3.7",
+    "websites": "Als Inhaber eintragen"
+  },
+  {
+    "name": "66 Diner",
+    "url": "https://www.google.com/maps/place/66+Diner/data=!4m7!3m6!1s0x87220ca02200ab39:0x48ef02fae85ec42c!8m2!3d35.0821544!4d-106.6306872!16s%2Fg%2F1tmpkzh5!19sChIJOasAIqAMIocRLMRe6PoC70g?authuser=0&hl=de&rclk=1",
+    "address": "1405 Central Ave NE, Albuquerque, NM 87106, Vereinigte Staaten",
+    "phone": "+1 505-247-1421",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Annie's Soup Kitchen",
+    "url": "https://www.google.com/maps/place/Annie%27s+Soup+Kitchen/data=!4m7!3m6!1s0x87189ffff33f802f:0x62cf9736f495c882!8m2!3d35.116905!4d-106.534225!16s%2Fg%2F1tfgpvww!19sChIJL4A_8_-fGIcRgsiV9DaXz2I?authuser=0&hl=de&rclk=1",
+    "address": "3107 Eubank Blvd NE, Albuquerque, NM 87111, Vereinigte Staaten",
+    "phone": "+1 505-296-8601",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Thunder Road Steakhouse & Cantina",
+    "url": "https://www.google.com/maps/place/Thunder+Road+Steakhouse+%26+Cantina/data=!4m7!3m6!1s0x8718a11de6696e25:0x259d4bb61547f952!8m2!3d35.0283096!4d-106.9525909!16s%2Fg%2F11h3vbs999!19sChIJJW5p5h2hGIcRUvlHFbZLnSU?authuser=0&hl=de&rclk=1",
+    "address": "14500 Central Ave SW, Albuquerque, NM 87120, Vereinigte Staaten",
+    "phone": "+1 505-352-7888",
+    "hours": "No Hours",
+    "reviews": "3.5",
+    "websites": "rt66casino.com"
+  },
+  {
+    "name": "The Lobster House",
+    "url": "https://www.google.com/maps/place/The+Lobster+House/data=!4m7!3m6!1s0x47c3c47f7d38b5e9:0x578a67bee5efbd30!8m2!3d50.8478926!4d4.3546542!16s%2Fg%2F11c2kdpn__!19sChIJ6bU4fX_Ew0cRML3v5b5nilc?authuser=0&hl=de&rclk=1",
+    "address": "Rue des Bouchers 34, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 502 20 16",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 22:00",
+    "reviews": "4.7",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Le Bistro - Porte de Hal",
+    "url": "https://www.google.com/maps/place/Le+Bistro+-+Porte+de+Hal/data=!4m7!3m6!1s0x47c3c465e98edb6d:0x12d48f1220d176e4!8m2!3d50.8335134!4d4.3452957!16s%2Fg%2F11bxglvkm9!19sChIJbduO6WXEw0cR5HbRIBKP1BI?authuser=0&hl=de&rclk=1",
+    "address": "Bd de Waterloo 138, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 539 44 54",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:00",
+    "reviews": "4.6",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Der Tisch von Mus",
+    "url": "https://www.google.com/maps/place/Der+Tisch+von+Mus/data=!4m7!3m6!1s0x47c3c47eb445e0c1:0x39dafca9b07e00b6!8m2!3d50.8438286!4d4.351985!16s%2Fg%2F11cm024_gq!19sChIJweBFtH7Ew0cRtgB-sKn82jk?authuser=0&hl=de&rclk=1",
+    "address": "Pl. de la Vieille Halle aux Bl\u00e9s 31, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 511 05 86",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Le Cor de Chasse",
+    "url": "https://www.google.com/maps/place/Le+Cor+de+Chasse/data=!4m10!3m9!1s0x47c04fbb4f3e8465:0x25538909c7524cc6!5m2!4m1!1i2!8m2!3d50.3244444!4d5.53!16s%2Fg%2F1w2yylnn!19sChIJZYQ-T7tPwEcRxkxSxwmJUyU?authuser=0&hl=de&rclk=1",
+    "address": "Rue des Combattants 16, 6940 Durbuy, Belgien",
+    "phone": "+32 86 21 14 98",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "lecordechasse.be"
+  },
+  {
+    "name": "De Bomma",
+    "url": "https://www.google.com/maps/place/De+Bomma/data=!4m7!3m6!1s0x47c3f73faf9a3ec7:0x47605cd5262d3c94!8m2!3d51.2219489!4d4.3979459!16s%2Fg%2F11h6m5087h!19sChIJxz6arz_3w0cRlDwtJtVcYEc?authuser=0&hl=de&rclk=1",
+    "address": "Willem Ogierplaats 3, 2000 Antwerpen, Belgien",
+    "phone": "+32 3 773 32 01",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Dolce Amaro",
+    "url": "https://www.google.com/maps/place/Dolce+Amaro/data=!4m7!3m6!1s0x47c3c46029f7b99b:0x793aa78f98aab14f!8m2!3d50.8292346!4d4.3555494!16s%2Fg%2F1thhjp0f!19sChIJm7n3KWDEw0cRT7GqmI-nOnk?authuser=0&hl=de&rclk=1",
+    "address": "Chau. de Charleroi 115/117, 1060 Bruxelles, Belgien",
+    "phone": "+32 2 538 17 00",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "dolceamaro.be"
+  },
+  {
+    "name": "Le Marmiton",
+    "url": "https://www.google.com/maps/place/Le+Marmiton/data=!4m7!3m6!1s0x47c3c47f7dadd76d:0x11932af83021be00!8m2!3d50.8477202!4d4.3548659!16s%2Fg%2F1tdgzg1m!19sChIJbdetfX_Ew0cRAL4hMPgqkxE?authuser=0&hl=de&rclk=1",
+    "address": "Galerie de la Reine 38, Rue des Bouchers 43, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 511 79 10",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "L\u2019air du temps",
+    "url": "https://www.google.com/maps/place/L%E2%80%99air+du+temps/data=!4m10!3m9!1s0x47c175c85c0b53bf:0x742d32144548dbc9!5m2!4m1!1i2!8m2!3d50.5929795!4d4.8330711!16s%2Fg%2F11x1nfy69!19sChIJv1MLXMh1wUcRydtIRRQyLXQ?authuser=0&hl=de&rclk=1",
+    "address": "Rue de la Croix Monet 2, 5310 \u00c9ghez\u00e9e, Belgien",
+    "phone": "+32 81 81 30 48",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Royal Indian Taste",
+    "url": "https://www.google.com/maps/place/Royal+Indian+Taste/data=!4m7!3m6!1s0x47c3c52f4029f38b:0xa8265ba408b8b73b!8m2!3d50.8471724!4d4.3537503!16s%2Fg%2F11q4jx0xth!19sChIJi_MpQC_Fw0cRO7e4CKRbJqg?authuser=0&hl=de&rclk=1",
+    "address": "Rue du March\u00e9 aux Herbes 76, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 513 07 19",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:30",
+    "reviews": "4.6",
+    "websites": "royalindiantaste.be"
+  },
+  {
+    "name": "Baladi",
+    "url": "https://www.google.com/maps/place/Baladi/data=!4m7!3m6!1s0x47c3c56cb2bc13e9:0x40fc46d3cbda305a!8m2!3d50.8457497!4d4.3526631!16s%2Fg%2F11py0whkhy!19sChIJ6RO8smzFw0cRWjDay9NG_EA?authuser=0&hl=de&rclk=1",
+    "address": "Rue des Chapeliers 16, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 672 44 25",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 22:30",
+    "reviews": "4.8",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Der Rabassier",
+    "url": "https://www.google.com/maps/place/Der+Rabassier/data=!4m7!3m6!1s0x47c3c47c3d905221:0x7447df8910eaa5d!8m2!3d50.7994397!4d4.3423137!16s%2Fg%2F11byp6q67j!19sChIJIVKQPXzEw0cRXaoOkfh9RAc?authuser=0&hl=de&rclk=1",
+    "address": "Av. Wolvendael 44, 1180 Uccle, Belgien",
+    "phone": "+32 497 75 69 05",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "lerabassier.be"
+  },
+  {
+    "name": "Comme chez soi",
+    "url": "https://www.google.com/maps/place/Comme+chez+soi/data=!4m7!3m6!1s0x47c3c47a024d0c4d:0x9a3bd661c7d63db3!8m2!3d50.8423616!4d4.345815!16s%2Fm%2F03d4vdt!19sChIJTQxNAnrEw0cRsz3Wx2HWO5o?authuser=0&hl=de&rclk=1",
+    "address": "Pl. Rouppe 23, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 512 29 21",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "commechezsoi.be"
+  },
+  {
+    "name": "Meat Factory Brussel",
+    "url": "https://www.google.com/maps/place/Meat+Factory+Brussel/data=!4m7!3m6!1s0x47c3c516a2d804f7:0x840df552802ee000!8m2!3d50.8476063!4d4.348258!16s%2Fg%2F11y1nw8pvs!19sChIJ9wTYohbFw0cRAOAugFL1DYQ?authuser=0&hl=de&rclk=1",
+    "address": "Borgwal 9, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 514 79 44",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "meat-factory.be"
+  },
+  {
+    "name": "Restaurant de l'Ogenblik",
+    "url": "https://www.google.com/maps/place/Restaurant+de+l%27Ogenblik/data=!4m7!3m6!1s0x47c3c3809b9f72b7:0xcc937dff171b011e!8m2!3d50.8482827!4d4.3546005!16s%2Fg%2F1tq6j79y!19sChIJt3Kfm4DDw0cRHgEbF_99k8w?authuser=0&hl=de&rclk=1",
+    "address": "Galerie des Princes 1, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 511 61 51",
+    "hours": "No Hours",
+    "reviews": "4.3",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "65 Grad",
+    "url": "https://www.google.com/maps/place/65+Grad/data=!4m7!3m6!1s0x47c3c5ac29587221:0x10351d2e0db797ed!8m2!3d50.8278993!4d4.3626559!16s%2Fg%2F11gr0wjblm!19sChIJIXJYKazFw0cR7Ze3DS4dNRA?authuser=0&hl=de&rclk=1",
+    "address": "Av. Louise 173, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 374 54 50",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "KOK SUR MER",
+    "url": "https://www.google.com/maps/place/KOK+SUR+MER/data=!4m7!3m6!1s0x47dcaaf9ced7234b:0x3aad15409e867889!8m2!3d51.2562778!4d3.0561472!16s%2Fg%2F1wf213gw!19sChIJSyPXzvmq3EcRiXiGnkAVrTo?authuser=0&hl=de&rclk=1",
+    "address": "Warvinge 49, 8421 De Haan, Belgien",
+    "phone": "+32 59 43 09 70",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "lekoksurmer.be"
+  },
+  {
+    "name": "Bartholomeus",
+    "url": "https://www.google.com/maps/place/Bartholomeus/data=!4m7!3m6!1s0x47c4a858558cea3d:0xb5a8e86df15372e!8m2!3d51.341722!4d3.243564!16s%2Fg%2F1thzsznd!19sChIJPeqMVVioxEcRLjcV34aOWgs?authuser=0&hl=de&rclk=1",
+    "address": "Zeedijk-Heist 267, 8301 Knokke-Heist, Belgien",
+    "phone": "+32 50 51 75 76",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "restaurantbartholomeus.be"
+  },
+  {
+    "name": "'t Potverdoemmeke",
+    "url": "https://www.google.com/maps/place/%27%27t+Potverdoemmeke%27/data=!4m7!3m6!1s0x47c3c368fa619c75:0x70da90e9431f672a!8m2!3d50.8592812!4d4.3817072!16s%2Fg%2F1q62ksnpp!19sChIJdZxh-mjDw0cRKmcfQ-mQ2nA?authuser=0&hl=de&rclk=1",
+    "address": "Av. G\u00e9n\u00e9ral Eisenhower 10, 1030 Schaerbeek, Belgien",
+    "phone": "+32 2 245 25 07",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "La bonne ch\u00e8re",
+    "url": "https://www.google.com/maps/place/La+bonne+ch%C3%A8re/data=!4m7!3m6!1s0x47c3c47b9d1f58e7:0x81b289adf69e6be1!8m2!3d50.840337!4d4.3502952!16s%2Fg%2F11f_dw1t0z!19sChIJ51gfnXvEw0cR4Wue9q2JsoE?authuser=0&hl=de&rclk=1",
+    "address": "Rue Notre-Seigneur 19, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 523 75 55",
+    "hours": "No Hours",
+    "reviews": "4.9",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "The Jane",
+    "url": "https://www.google.com/maps/place/The+Jane/data=!4m7!3m6!1s0x47c3f718f6e100bd:0x6c40793f3040ef3d!8m2!3d51.2024803!4d4.4234505!16s%2Fg%2F11bxc656wl!19sChIJvQDh9hj3w0cRPe9AMD95QGw?authuser=0&hl=de&rclk=1",
+    "address": "Paradeplein 1, 2018 Antwerpen, Belgien",
+    "phone": "+32 3 808 44 65",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "thejaneantwerp.com"
+  },
+  {
+    "name": "BLOCK HOUSE",
+    "url": "https://www.google.com/maps/place/BLOCK+HOUSE/data=!4m7!3m6!1s0x47a851dfe4ab0063:0x4a62c057045acb76!8m2!3d52.5206283!4d13.4050927!16s%2Fg%2F1td4cl5v!19sChIJYwCr5N9RqEcRdstaBFfAYko?authuser=0&hl=de&rclk=1",
+    "address": "Karl-Liebknecht-Str. 7, 10178 Berlin",
+    "phone": "No Phone",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:00",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "The Lobster House\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/The+Lobster+House/data=!4m7!3m6!1s0x47c3c47f7d38b5e9:0x578a67bee5efbd30!8m2!3d50.8478926!4d4.3546542!16s%2Fg%2F11c2kdpn__!19sChIJ6bU4fX_Ew0cRML3v5b5nilc?authuser=0&hl=de&rclk=1",
+    "address": "Rue des Bouchers 34, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 502 20 16",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 22:00",
+    "reviews": "4.7",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Dolce Amaro\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Dolce+Amaro/data=!4m7!3m6!1s0x47c3c46029f7b99b:0x793aa78f98aab14f!8m2!3d50.8292346!4d4.3555494!16s%2Fg%2F1thhjp0f!19sChIJm7n3KWDEw0cRT7GqmI-nOnk?authuser=0&hl=de&rclk=1",
+    "address": "Chau. de Charleroi 115/117, 1060 Bruxelles, Belgien",
+    "phone": "+32 2 538 17 00",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "dolceamaro.be"
+  },
+  {
+    "name": "Der Tisch von Mus\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Der+Tisch+von+Mus/data=!4m7!3m6!1s0x47c3c47eb445e0c1:0x39dafca9b07e00b6!8m2!3d50.8438286!4d4.351985!16s%2Fg%2F11cm024_gq!19sChIJweBFtH7Ew0cRtgB-sKn82jk?authuser=0&hl=de&rclk=1",
+    "address": "Pl. de la Vieille Halle aux Bl\u00e9s 31, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 511 05 86",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Le Cor de Chasse\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Le+Cor+de+Chasse/data=!4m10!3m9!1s0x47c04fbb4f3e8465:0x25538909c7524cc6!5m2!4m1!1i2!8m2!3d50.3244444!4d5.53!16s%2Fg%2F1w2yylnn!19sChIJZYQ-T7tPwEcRxkxSxwmJUyU?authuser=0&hl=de&rclk=1",
+    "address": "Rue des Combattants 16, 6940 Durbuy, Belgien",
+    "phone": "+32 86 21 14 98",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "lecordechasse.be"
+  },
+  {
+    "name": "De Bomma\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/De+Bomma/data=!4m7!3m6!1s0x47c3f73faf9a3ec7:0x47605cd5262d3c94!8m2!3d51.2219489!4d4.3979459!16s%2Fg%2F11h6m5087h!19sChIJxz6arz_3w0cRlDwtJtVcYEc?authuser=0&hl=de&rclk=1",
+    "address": "Willem Ogierplaats 3, 2000 Antwerpen, Belgien",
+    "phone": "+32 3 773 32 01",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Le Marmiton\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Le+Marmiton/data=!4m7!3m6!1s0x47c3c47f7dadd76d:0x11932af83021be00!8m2!3d50.8477202!4d4.3548659!16s%2Fg%2F1tdgzg1m!19sChIJbdetfX_Ew0cRAL4hMPgqkxE?authuser=0&hl=de&rclk=1",
+    "address": "Galerie de la Reine 38, Rue des Bouchers 43, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 511 79 10",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "L\u2019air du temps\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/L%E2%80%99air+du+temps/data=!4m10!3m9!1s0x47c175c85c0b53bf:0x742d32144548dbc9!5m2!4m1!1i2!8m2!3d50.5929795!4d4.8330711!16s%2Fg%2F11x1nfy69!19sChIJv1MLXMh1wUcRydtIRRQyLXQ?authuser=0&hl=de&rclk=1",
+    "address": "Rue de la Croix Monet 2, 5310 \u00c9ghez\u00e9e, Belgien",
+    "phone": "+32 81 81 30 48",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Royal Indian Taste\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Royal+Indian+Taste/data=!4m7!3m6!1s0x47c3c52f4029f38b:0xa8265ba408b8b73b!8m2!3d50.8471724!4d4.3537503!16s%2Fg%2F11q4jx0xth!19sChIJi_MpQC_Fw0cRO7e4CKRbJqg?authuser=0&hl=de&rclk=1",
+    "address": "Rue du March\u00e9 aux Herbes 76, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 513 07 19",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:30",
+    "reviews": "4.6",
+    "websites": "royalindiantaste.be"
+  },
+  {
+    "name": "Baladi\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Baladi/data=!4m7!3m6!1s0x47c3c56cb2bc13e9:0x40fc46d3cbda305a!8m2!3d50.8457497!4d4.3526631!16s%2Fg%2F11py0whkhy!19sChIJ6RO8smzFw0cRWjDay9NG_EA?authuser=0&hl=de&rclk=1",
+    "address": "Rue du March\u00e9 aux Herbes 76, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 513 07 19",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:30",
+    "reviews": "4.6",
+    "websites": "royalindiantaste.be"
+  },
+  {
+    "name": "Le Bistro - Porte de Hal\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Le+Bistro+-+Porte+de+Hal/data=!4m7!3m6!1s0x47c3c465e98edb6d:0x12d48f1220d176e4!8m2!3d50.8335134!4d4.3452957!16s%2Fg%2F11bxglvkm9!19sChIJbduO6WXEw0cR5HbRIBKP1BI?authuser=0&hl=de&rclk=1",
+    "address": "Bd de Waterloo 138, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 539 44 54",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:00",
+    "reviews": "4.6",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Der Rabassier\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Der+Rabassier/data=!4m7!3m6!1s0x47c3c47c3d905221:0x7447df8910eaa5d!8m2!3d50.7994397!4d4.3423137!16s%2Fg%2F11byp6q67j!19sChIJIVKQPXzEw0cRXaoOkfh9RAc?authuser=0&hl=de&rclk=1",
+    "address": "Av. Wolvendael 44, 1180 Uccle, Belgien",
+    "phone": "+32 497 75 69 05",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "lerabassier.be"
+  },
+  {
+    "name": "Comme chez soi\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Comme+chez+soi/data=!4m7!3m6!1s0x47c3c47a024d0c4d:0x9a3bd661c7d63db3!8m2!3d50.8423616!4d4.345815!16s%2Fm%2F03d4vdt!19sChIJTQxNAnrEw0cRsz3Wx2HWO5o?authuser=0&hl=de&rclk=1",
+    "address": "Pl. Rouppe 23, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 512 29 21",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "commechezsoi.be"
+  },
+  {
+    "name": "Meat Factory Brussel\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Meat+Factory+Brussel/data=!4m7!3m6!1s0x47c3c516a2d804f7:0x840df552802ee000!8m2!3d50.8476063!4d4.348258!16s%2Fg%2F11y1nw8pvs!19sChIJ9wTYohbFw0cRAOAugFL1DYQ?authuser=0&hl=de&rclk=1",
+    "address": "Pl. Rouppe 23, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 512 29 21",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "commechezsoi.be"
+  },
+  {
+    "name": "Restaurant de l'Ogenblik\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Restaurant+de+l%27Ogenblik/data=!4m7!3m6!1s0x47c3c3809b9f72b7:0xcc937dff171b011e!8m2!3d50.8482827!4d4.3546005!16s%2Fg%2F1tq6j79y!19sChIJt3Kfm4DDw0cRHgEbF_99k8w?authuser=0&hl=de&rclk=1",
+    "address": "Galerie des Princes 1, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 511 61 51",
+    "hours": "No Hours",
+    "reviews": "4.3",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "65 Grad\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/65+Grad/data=!4m7!3m6!1s0x47c3c5ac29587221:0x10351d2e0db797ed!8m2!3d50.8278993!4d4.3626559!16s%2Fg%2F11gr0wjblm!19sChIJIXJYKazFw0cR7Ze3DS4dNRA?authuser=0&hl=de&rclk=1",
+    "address": "Av. Louise 173, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 374 54 50",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "KOK SUR MER\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/KOK+SUR+MER/data=!4m7!3m6!1s0x47dcaaf9ced7234b:0x3aad15409e867889!8m2!3d51.2562778!4d3.0561472!16s%2Fg%2F1wf213gw!19sChIJSyPXzvmq3EcRiXiGnkAVrTo?authuser=0&hl=de&rclk=1",
+    "address": "Warvinge 49, 8421 De Haan, Belgien",
+    "phone": "+32 59 43 09 70",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "lekoksurmer.be"
+  },
+  {
+    "name": "Bartholomeus\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/Bartholomeus/data=!4m7!3m6!1s0x47c4a858558cea3d:0xb5a8e86df15372e!8m2!3d51.341722!4d3.243564!16s%2Fg%2F1thzsznd!19sChIJPeqMVVioxEcRLjcV34aOWgs?authuser=0&hl=de&rclk=1",
+    "address": "Zeedijk-Heist 267, 8301 Knokke-Heist, Belgien",
+    "phone": "+32 50 51 75 76",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "restaurantbartholomeus.be"
+  },
+  {
+    "name": "'t Potverdoemmeke\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/%27%27t+Potverdoemmeke%27/data=!4m7!3m6!1s0x47c3c368fa619c75:0x70da90e9431f672a!8m2!3d50.8592812!4d4.3817072!16s%2Fg%2F1q62ksnpp!19sChIJdZxh-mjDw0cRKmcfQ-mQ2nA?authuser=0&hl=de&rclk=1",
+    "address": "Av. G\u00e9n\u00e9ral Eisenhower 10, 1030 Schaerbeek, Belgien",
+    "phone": "+32 2 245 25 07",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "La bonne ch\u00e8re\u00b7Ge\u00f6ffneter Link",
+    "url": "https://www.google.com/maps/place/La+bonne+ch%C3%A8re/data=!4m7!3m6!1s0x47c3c47b9d1f58e7:0x81b289adf69e6be1!8m2!3d50.840337!4d4.3502952!16s%2Fg%2F11f_dw1t0z!19sChIJ51gfnXvEw0cR4Wue9q2JsoE?authuser=0&hl=de&rclk=1",
+    "address": "Rue Notre-Seigneur 19, 1000 Bruxelles, Belgien",
+    "phone": "+32 2 523 75 55",
+    "hours": "No Hours",
+    "reviews": "4.9",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Le Petit Banville",
+    "url": "https://www.google.com/maps/place/Le+Petit+Banville/data=!4m7!3m6!1s0x47e66f9685a4b3c3:0x93671952919003e4!8m2!3d48.8828809!4d2.2984338!16s%2Fg%2F1tk4qgb2!19sChIJw7OkhZZv5kcR5AOQkVIZZ5M?authuser=0&hl=de&rclk=1",
+    "address": "22 Rue Th\u00e9odore de Banville, 75017 Paris, Frankreich",
+    "phone": "+33 1 42 27 45 19",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 23:00",
+    "reviews": "4.2",
+    "websites": "No website"
+  },
+  {
+    "name": "Coq Au Vin",
+    "url": "https://www.google.com/maps/place/Coq+Au+Vin/data=!4m7!3m6!1s0x47bd0c1b942c4723:0x23f7b8f5f4ca2a04!8m2!3d50.1050295!4d8.6880359!16s%2Fg%2F1tdy3lky!19sChIJI0cslBsMvUcRBCrK9PW49yM?authuser=0&hl=de&rclk=1",
+    "address": "Wallstra\u00dfe 19, 60594 Frankfurt am Main",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Auberge Sauvage",
+    "url": "https://www.google.com/maps/place/Auberge+Sauvage/data=!4m7!3m6!1s0x480ead75f042ba8b:0x3ac89c108846e066!8m2!3d48.6007568!4d-1.4196565!16s%2Fg%2F11ky5r3cfw!19sChIJi7pC8HWtDkgRZuBGiBCcyDo?authuser=0&hl=de&rclk=1",
+    "address": "3 Pl. Saint-Martin, 50170 Servon, Frankreich",
+    "phone": "+33 2 33 60 17 92",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "aubergesauvage.com"
+  },
+  {
+    "name": "Le France",
+    "url": "https://www.google.com/maps/place/Le+France/data=!4m7!3m6!1s0x478dee61e2fb0cc3:0x28b7060b3ad3f826!8m2!3d47.059527!4d6.670456!16s%2Fg%2F11cs142dkm!19sChIJwwz74mHujUcRJvjTOgsGtyg?authuser=0&hl=de&rclk=1",
+    "address": "8 Pl. Maxime Cupillard, 25130 Villers-le-Lac, Frankreich",
+    "phone": "+33 3 81 68 00 06",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 00:00",
+    "reviews": "4.4",
+    "websites": "hotel-restaurant-lefrance.com"
+  },
+  {
+    "name": "Au top paris",
+    "url": "https://www.google.com/maps/place/Au+top+paris/data=!4m7!3m6!1s0x47e66f10c28af1bf:0xd06e3cf186f2c328!8m2!3d48.8601875!4d2.3607163!16s%2Fg%2F11q4vbn0zp!19sChIJv_GKwhBv5kcRKMPyhvE8btA?authuser=0&hl=de&rclk=1",
+    "address": "93 Rue Vieille du Temple, 75003 Paris, Frankreich",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.3",
+    "websites": "actedeux.paris"
+  },
+  {
+    "name": "Le Jardin de France",
+    "url": "https://www.google.com/maps/place/Le+Jardin+de+France/data=!4m7!3m6!1s0x47971f439cbfe6af:0x2b79bfaf1477d6c5!8m2!3d48.75952!4d8.2397736!16s%2Fg%2F1td2ydvc!19sChIJr-a_nEMfl0cRxdZ3FK-_eSs?authuser=0&hl=de&rclk=1",
+    "address": "Augustapl. 2, 76530 Baden-Baden",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "L'Arp\u00e8ge",
+    "url": "https://www.google.com/maps/place/L%27Arp%C3%A8ge/data=!4m7!3m6!1s0x47e6702a1700ea43:0xee64dc33b34d3fd9!8m2!3d48.8557874!4d2.3170682!16s%2Fm%2F02qsr6m!19sChIJQ-oAFypw5kcR2T9NszPcZO4?authuser=0&hl=de&rclk=1",
+    "address": "84 Rue de Varenne, 75007 Paris, Frankreich",
+    "phone": "+33 1 47 05 09 06",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "alain-passard.com"
+  },
+  {
+    "name": "Auberge Saint-Laurent - HOTEL RESTAURANT",
+    "url": "https://www.google.com/maps/place/Auberge+Saint-Laurent+-+HOTEL+RESTAURANT/data=!4m10!3m9!1s0x479197dbea1274b1:0xa3d30909931a94bf!5m2!4m1!1i2!8m2!3d47.6540848!4d7.4539155!16s%2Fg%2F1td4ys81!19sChIJsXQS6tuXkUcRv5QakwkJ06M?authuser=0&hl=de&rclk=1",
+    "address": "1 Rue de la Fontaine, 68510 Sierentz, Frankreich",
+    "phone": "+33 3 89 81 52 81",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "auberge-saintlaurent.fr"
+  },
+  {
+    "name": "Georges Blanc \u00b7 Restaurant Gastronomique",
+    "url": "https://www.google.com/maps/place/Georges+Blanc+%C2%B7+Restaurant+Gastronomique/data=!4m7!3m6!1s0x47f35d0159fb3843:0xa32bc14a6c7214c4!8m2!3d46.2201053!4d4.9897019!16s%2Fg%2F1tfkq2sk!19sChIJQzj7WQFd80cRxBRybErBK6M?authuser=0&hl=de&rclk=1",
+    "address": "1 Pl. du March\u00e9, 01540 Vonnas, Frankreich",
+    "phone": "+33 4 74 50 90 90",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "georgesblanc.com"
+  },
+  {
+    "name": "Septime",
+    "url": "https://www.google.com/maps/place/Septime/data=!4m7!3m6!1s0x47e672085202a913:0x3230715dda06499!8m2!3d48.8535723!4d2.3809333!16s%2Fg%2F1v6l6tc7!19sChIJE6kCUghy5kcRmWSg3RUHIwM?authuser=0&hl=de&rclk=1",
+    "address": "80 Rue de Charonne, 75011 Paris, Frankreich",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "septime-charonne.fr"
+  },
+  {
+    "name": "Au Vieux Couvent",
+    "url": "https://www.google.com/maps/place/Au+Vieux+Couvent/data=!4m7!3m6!1s0x4791376b96609b8b:0xc12ad571901cceac!8m2!3d48.3171969!4d7.7069484!16s%2Fg%2F1tfv419g!19sChIJi5tglms3kUcRrM4ckHHVKsE?authuser=0&hl=de&rclk=1",
+    "address": "6 Rue des Chanoines, 67860 Rhinau, Frankreich",
+    "phone": "+33 3 88 74 61 15",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "auvieuxcouvent.fr"
+  },
+  {
+    "name": "The France - Restaurant",
+    "url": "https://www.google.com/maps/place/The+France+-+Restaurant/data=!4m7!3m6!1s0x47ebf395b7f73693:0xdb420d27a1a5b299!8m2!3d48.7268074!4d4.5834531!16s%2Fg%2F1tg4_rq0!19sChIJkzb3t5Xz60cRmbKloScNQts?authuser=0&hl=de&rclk=1",
+    "address": "5 Rue des S\u0153urs, 51300 Vitry-le-Fran\u00e7ois, Frankreich",
+    "phone": "+33 3 26 73 21 98",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "restaurant-the-france.com"
+  },
+  {
+    "name": "Restaurant \u00c0 l'\u00c9chevin",
+    "url": "https://www.google.com/maps/place/Restaurant+%C3%80+l%27%C3%89chevin/data=!4m7!3m6!1s0x479165e87e6b4e4f:0x9fd6aea98bd5d6ce!8m2!3d48.0736037!4d7.3568528!16s%2Fg%2F1hm51960s!19sChIJT05rfuhlkUcRztbVi6mu1p8?authuser=0&hl=de&rclk=1",
+    "address": "4 Pl. des 6 Montagnes Noires, 68000 Colmar, Frankreich",
+    "phone": "+33 3 89 41 60 32",
+    "hours": "No Hours",
+    "reviews": "4.3",
+    "websites": "hotel-le-marechal.com"
+  },
+  {
+    "name": "Bistrot Chez France",
+    "url": "https://www.google.com/maps/place/Bistrot+Chez+France/data=!4m7!3m6!1s0x47e66fd8fb38d25d:0x88a0a90011e0453c!8m2!3d48.8590532!4d2.307601!16s%2Fg%2F11bccjvzvt!19sChIJXdI4-9hv5kcRPEXgEQCpoIg?authuser=0&hl=de&rclk=1",
+    "address": "9 Rue Am\u00e9lie, 75007 Paris, Frankreich",
+    "phone": "+33 1 40 67 96 54",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Fleur de Loire \u00b7 Spa Hotel & Restaurant",
+    "url": "https://www.google.com/maps/place/Fleur+de+Loire+%C2%B7+Spa+Hotel+%26+Restaurant/data=!4m10!3m9!1s0x47e4a9f30e32a693:0x80c92139f598af0f!5m2!4m1!1i2!8m2!3d47.5824835!4d1.3376745!16s%2Fg%2F11r9fjkxwl!19sChIJk6YyDvOp5EcRD6-Y9TkhyYA?authuser=0&hl=de&rclk=1",
+    "address": "26 Quai Villebois Mareuil, 41000 Blois, Frankreich",
+    "phone": "+33 2 46 68 01 20",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "fleurdeloire.com"
+  },
+  {
+    "name": "Auberge de l'Ill",
+    "url": "https://www.google.com/maps/place/Auberge+de+l%27Ill/data=!4m7!3m6!1s0x479142ea27617ecd:0x85ac041584b63383!8m2!3d48.1843876!4d7.432821!16s%2Fg%2F1td41dwh!19sChIJzX5hJ-pCkUcRgzO2hBUErIU?authuser=0&hl=de&rclk=1",
+    "address": "2 Rue de Collonges au Mont d'Or, 68970 Illhaeusern, Frankreich",
+    "phone": "+33 3 89 71 89 00",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "auberge-de-l-ill.com"
+  },
+  {
+    "name": "FrenchyTaste",
+    "url": "https://www.google.com/maps/place/FrenchyTaste/data=!4m7!3m6!1s0x47e66dfb967934a3:0xc5b546fa5d13913!8m2!3d48.867685!4d2.355342!16s%2Fg%2F11c6sktvjk!19sChIJozR5lvtt5kcREznRpW9UWww?authuser=0&hl=de&rclk=1",
+    "address": "74 Rue du Vertbois, 75003 Paris, Frankreich",
+    "phone": "+33 6 80 64 18 84",
+    "hours": "No Hours",
+    "reviews": "4.9",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "La T\u00eate de l'Art",
+    "url": "https://www.google.com/maps/place/La+T%C3%AAte+de+l%27Art/data=!4m7!3m6!1s0x48055b8cd91c95fd:0x722068d003faa4fc!8m2!3d47.3230851!4d-2.4194736!16s%2Fg%2F1td1csx0!19sChIJ_ZUc2YxbBUgR_KT6A9BoIHI?authuser=0&hl=de&rclk=1",
+    "address": "11 Rue de la porte calon, 44350 Gu\u00e9rande, Frankreich",
+    "phone": "+33 2 40 88 53 40",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Restaurant Gimbelhof",
+    "url": "https://www.google.com/maps/place/Restaurant+Gimbelhof/data=!4m7!3m6!1s0x47968b8d6f2a29f3:0x9c79a5233c1e8b9a!8m2!3d49.046642!4d7.7867267!16s%2Fg%2F1tffc3tn!19sChIJ8ykqb42LlkcRmosePCOleZw?authuser=0&hl=de&rclk=1",
+    "address": "67510 Lembach, Frankreich",
+    "phone": "+33 3 88 94 43 58",
+    "hours": "No Hours",
+    "reviews": "4.2",
+    "websites": "gimbelhof.com"
+  },
+  {
+    "name": "Le P\u00e9trocore",
+    "url": "https://www.google.com/maps/place/Le+P%C3%A9trocore/data=!4m7!3m6!1s0x47ff71a5b406115f:0xe6a33e779d23c937!8m2!3d45.1851504!4d0.7211081!16s%2Fg%2F11vd3lsnwh!19sChIJXxEGtKVx_0cRN8kjnXc-o-Y?authuser=0&hl=de&rclk=1",
+    "address": "15 Rue Eguillerie, 24000 P\u00e9rigueux, Frankreich",
+    "phone": "+33 7 60 25 38 47",
+    "hours": "No Hours",
+    "reviews": "4.9",
+    "websites": "restaurant-lepetrocore.fr"
+  },
+  {
+    "name": "Baretto",
+    "url": "https://www.google.com/maps/place/Baretto/data=!4m7!3m6!1s0x4781515ce608d3f9:0x738e7363c599925c!8m2!3d45.7084354!4d9.6504048!16s%2Fg%2F1tf9rp74!19sChIJ-dMI5lxRgUcRXJKZxWNzjnM?authuser=0&hl=de&rclk=1",
+    "address": "Via al Castello, 1, 24100 Bergamo BG, Italien",
+    "phone": "+39 035 253191",
+    "hours": "Ge\u00f6ffnet \u22c5 Schlie\u00dft um 01:00",
+    "reviews": "4.4",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Piazza Duomo",
+    "url": "https://www.google.com/maps/place/Piazza+Duomo/data=!4m7!3m6!1s0x12d2b35d2e860f4b:0xafa26d7929f2cc5f!8m2!3d44.7006136!4d8.0357954!16s%2Fg%2F1v9nk68z!19sChIJSw-GLl2z0hIRX8zyKXltoq8?authuser=0&hl=de&rclk=1",
+    "address": "Piazza Risorgimento, 4, 12051 Alba CN, Italien",
+    "phone": "+39 0173 366167",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "piazzaduomoalba.it"
+  },
+  {
+    "name": "Aroma",
+    "url": "https://www.google.com/maps/place/Aroma/data=!4m10!3m9!1s0x132f61b905e51cfd:0x846abc88a96f50d7!5m2!4m1!1i2!8m2!3d41.8901781!4d12.4955196!16s%2Fg%2F1hm5zxcg1!19sChIJ_RzlBblhLxMR11BvqYi8aoQ?authuser=0&hl=de&rclk=1",
+    "address": "Via Labicana, 125, 00184 Roma RM, Italien",
+    "phone": "+39 06 9761 5109",
+    "hours": "No Hours",
+    "reviews": "4.1",
+    "websites": "aromarestaurant.it"
+  },
+  {
+    "name": "Italy Food Ristorante",
+    "url": "https://www.google.com/maps/place/Italy+Food+Ristorante/data=!4m7!3m6!1s0x1325f3ba853457cb:0x8c017dbb6a236dfb!8m2!3d41.7729792!4d12.3785039!16s%2Fg%2F11cj9nvrkx!19sChIJy1c0hbrzJRMR-20jart9AYw?authuser=0&hl=de&rclk=1",
+    "address": "Piazza Giovanni Omiccioli, 20, 00125 Roma RM, Italien",
+    "phone": "+39 366 105 9792",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "No website"
+  },
+  {
+    "name": "Osteria Francescana",
+    "url": "https://www.google.com/maps/place/Osteria+Francescana/data=!4m7!3m6!1s0x477fef12d42cf17f:0x19607398f8f8e95d!8m2!3d44.6448264!4d10.9215729!16s%2Fm%2F05zrj5x!19sChIJf_Es1BLvf0cRXen4-JhzYBk?authuser=0&hl=de&rclk=1",
+    "address": "Via Stella, 22, 41121 Modena MO, Italien",
+    "phone": "+39 059 223912",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "osteriafrancescana.it"
+  },
+  {
+    "name": "Moma",
+    "url": "https://www.google.com/maps/place/Moma/data=!4m7!3m6!1s0x132f61a993843f09:0xec6fca4852825ce7!8m2!3d41.9056467!4d12.4908059!16s%2Fg%2F1tgmmn18!19sChIJCT-Ek6lhLxMR51yCUkjKb-w?authuser=0&hl=de&rclk=1",
+    "address": "Via di S. Basilio, 42, 00187 Roma RM, Italien",
+    "phone": "+39 06 4201 1798",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Casa Perbellini",
+    "url": "https://www.google.com/maps/place/Casa+Perbellini/data=!4m7!3m6!1s0x477f5f57fb34cbbb:0x755be9cd4b9a19f8!8m2!3d45.4426738!4d10.9961133!16s%2Fg%2F11b6xgmnlv!19sChIJu8s0-1dff0cR-BmaS83pW3U?authuser=0&hl=de&rclk=1",
+    "address": "Vicolo Corticella S. Marco, 3, 37121 Verona VR, Italien",
+    "phone": "+39 045 878 0860",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "casaperbellini.com"
+  },
+  {
+    "name": "Uliassi",
+    "url": "https://www.google.com/maps/place/Uliassi/data=!4m7!3m6!1s0x132d739dfcbc1d71:0x88124d00bcf7f393!8m2!3d43.7194631!4d13.2208132!16s%2Fg%2F1vpghzts!19sChIJcR28_J1zLRMRk_P3vABNEog?authuser=0&hl=de&rclk=1",
+    "address": "Banchina di Levante, 6, 60019 Senigallia AN, Italien",
+    "phone": "+39 071 65463",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Trattoria dal Biassanot",
+    "url": "https://www.google.com/maps/place/Trattoria+dal+Biassanot/data=!4m7!3m6!1s0x477fd4bd624fa307:0xd357484580eec2cc!8m2!3d44.4985465!4d11.345168!16s%2Fg%2F1vysvctj!19sChIJB6NPYr3Uf0cRzMLugEVIV9M?authuser=0&hl=de&rclk=1",
+    "address": "Via Piella, 16, 40126 Bologna BO, Italien",
+    "phone": "+39 051 230644",
+    "hours": "No Hours",
+    "reviews": "4.4",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Italy Restaurant Milano",
+    "url": "https://www.google.com/maps/place/Italy+Restaurant+Milano/data=!4m7!3m6!1s0x4786c6ad178c7939:0xf7f89a8a46498d7f!8m2!3d45.4661701!4d9.1858569!16s%2Fg%2F11c1qn3k2t!19sChIJOXmMF63GhkcRf41JRoqa-Pc?authuser=0&hl=de&rclk=1",
+    "address": "Via S. Prospero, 4, 20121 Milano MI, Italien",
+    "phone": "+39 02 3672 8447",
+    "hours": "No Hours",
+    "reviews": "3.9",
+    "websites": "Als Inhaber eintragen"
+  },
+  {
+    "name": "Antica Trattoria del Risorgimento",
+    "url": "https://www.google.com/maps/place/Antica+Trattoria+del+Risorgimento/data=!4m7!3m6!1s0x47842327ccf40bd5:0xdafd2d6a126f138c!8m2!3d45.9815!4d9.2071!16s%2Fg%2F1tj4fxtl!19sChIJ1Qv0zCcjhEcRjBNvEmot_do?authuser=0&hl=de&rclk=1",
+    "address": "di Mezzegra, Via Sant'Abbondio, 8, 22016 Azzano CO, Italien",
+    "phone": "+39 0344 41789",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "facebook.com"
+  },
+  {
+    "name": "Amerigo",
+    "url": "https://www.google.com/maps/place/Amerigo/data=!4m10!3m9!1s0x132acc0025881f1d:0x27a9af548af93bc5!5m2!4m1!1i2!8m2!3d44.3903251!4d11.0739748!16s%2Fg%2F1tfdvsrs!19sChIJHR-IJQDMKhMRxTv5ilSvqSc?authuser=0&hl=de&rclk=1",
+    "address": "Via Guglielmo Marconi, 14/16, 40053 Savigno BO, Italien",
+    "phone": "+39 051 670 8326",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "Speisekarte"
+  },
+  {
+    "name": "Antica Osteria Cera",
+    "url": "https://www.google.com/maps/place/Antica+Osteria+Cera/data=!4m7!3m6!1s0x477eb8748050c16f:0x214baa6b4adb6a31!8m2!3d45.3879394!4d12.1302862!16s%2Fg%2F1thvx399!19sChIJb8FQgHS4fkcRMWrbSmuqSyE?authuser=0&hl=de&rclk=1",
+    "address": "Via Marghera, 24, 30010 Lughetto VE, Italien",
+    "phone": "+39 041 518 5009",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Osteria Candalla",
+    "url": "https://www.google.com/maps/place/Osteria+Candalla/data=!4m7!3m6!1s0x12d575bc4d95d85b:0xb430fe4d69f2b876!8m2!3d43.9560928!4d10.3233346!16s%2Fg%2F1wb31mxr!19sChIJW9iVTbx11RIRdrjyaU3-MLQ?authuser=0&hl=de&rclk=1",
+    "address": "Via di Candalla, 264, 55041 Camaiore LU, Italien",
+    "phone": "+39 0584 984381",
+    "hours": "No Hours",
+    "reviews": "4.5",
+    "websites": "osteriacandalla.it"
+  },
+  {
+    "name": "Little Italy",
+    "url": "https://www.google.com/maps/place/Little+Italy/data=!4m7!3m6!1s0x4799db53b8b849d1:0xe7f49f20a579caed!8m2!3d48.7635505!4d9.1734992!16s%2Fg%2F11cktgtvhf!19sChIJ0Um4uFPbmUcR7cp5pSCf9Oc?authuser=0&hl=de&rclk=1",
+    "address": "Liststra\u00dfe 30, 70180 Stuttgart",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "little-italy-stuttgart.de"
+  },
+  {
+    "name": "Le Calandr\u0435",
+    "url": "https://www.google.com/maps/place/Le+Calandr%D0%B5/data=!4m7!3m6!1s0x477ed9a24cbd0147:0xb936c0ff1d7d21a8!8m2!3d45.4217428!4d11.8096337!16s%2Fm%2F02qsmpj!19sChIJRwG9TKLZfkcRqCF9Hf_ANrk?authuser=0&hl=de&rclk=1",
+    "address": "Via Liguria, 1, 35030 Rubano PD, Italien",
+    "phone": "+39 049 630303",
+    "hours": "No Hours",
+    "reviews": "4.7",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Restaurant Italy",
+    "url": "https://www.google.com/maps/place/Restaurant+Italy/data=!4m7!3m6!1s0x479e75b7d078c31f:0xc9f8cc00684e5d95!8m2!3d48.1656633!4d11.5865775!16s%2Fg%2F1tdvywx0!19sChIJH8N40Ld1nkcRlV1OaADM-Mk?authuser=0&hl=de&rclk=1",
+    "address": "Leopoldstra\u00dfe 108, 80802 M\u00fcnchen",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.3",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Villa Crespi",
+    "url": "https://www.google.com/maps/place/Villa+Crespi/data=!4m10!3m9!1s0x47860cee2a38b009:0x2268b08b418f860d!5m2!4m1!1i2!8m2!3d45.7964103!4d8.4160537!16s%2Fg%2F122gwfcl!19sChIJCbA4Ku4MhkcRDYaPQYuwaCI?authuser=0&hl=de&rclk=1",
+    "address": "Via Giuseppe Fava, 18, 28016 Orta San Giulio NO, Italien",
+    "phone": "+39 0322 911902",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "villacrespi.it"
+  },
+  {
+    "name": "Lido 84",
+    "url": "https://www.google.com/maps/place/Lido+84/data=!4m7!3m6!1s0x47818c221c49b0c7:0xb41eed0caeaeb603!8m2!3d45.6251592!4d10.5755666!16s%2Fg%2F1tlgwtlg!19sChIJx7BJHCKMgUcRA7aurgztHrQ?authuser=0&hl=de&rclk=1",
+    "address": "Corso Giuseppe Zanardelli, 196, 25083 Gardone Riviera BS, Italien",
+    "phone": "+39 0365 20019",
+    "hours": "No Hours",
+    "reviews": "4.8",
+    "websites": "Tisch reservieren"
+  },
+  {
+    "name": "Ristorante Risotto",
+    "url": "https://www.google.com/maps/place/Ristorante+Risotto/data=!4m7!3m6!1s0x479e76324c743a71:0x6fe3c001cdeecb63!8m2!3d48.1540166!4d11.5071313!16s%2Fg%2F11c0xxk1zq!19sChIJcTp0TDJ2nkcRY8vuzQHA428?authuser=0&hl=de&rclk=1",
+    "address": "Hirschgartenallee 38, 80639 M\u00fcnchen",
+    "phone": "No Phone",
+    "hours": "No Hours",
+    "reviews": "4.6",
+    "websites": "ristorante-risotto.de"
+  }
+]
